@@ -649,7 +649,8 @@ Navigation menu
     position: absolute;
     left: -110px;
     top: 50%;
-    font-size: 15px;
+    font-size: 13px;
+    font-family: 'Josefin Sans', sans-serif;
     color: var(--text-black-600);
     transform: translateY(-50%) rotate(-90deg);
     
